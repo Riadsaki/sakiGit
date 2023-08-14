@@ -1,0 +1,10 @@
+puplic class Hello{
+
+public static main(String[]arg){
+
+	System.out.println("Hello Git")
+
+
+}
+
+}
